@@ -4,4 +4,5 @@ pulic class sum
 {
 	int num1 =5, num2=10,sum;
 	sum = num1 + num 2;
+system.out.println("Sum of numbers is"+ sum);
 }
